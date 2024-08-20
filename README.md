@@ -70,7 +70,7 @@ python -m graphrag.index --root ./ragtest
 The extracted data will be saved in `.parquet` files within the `output/artifacts` folder.
 
 ### 4. Importing Data into Neo4j
-Set up your Neo4j credentials in your 'graphrag_importer.py' and 'to_merge_nodes.py' files:
+Set up your Neo4j credentials in your `graphrag_importer.py` and `to_merge_nodes.py` files:
 
 ```bash
 export NEO4J_URI=bolt://localhost:7687
