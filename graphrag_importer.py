@@ -2,9 +2,9 @@ import pandas as pd
 from neo4j import GraphDatabase
 import time
 GRAPHRAG_FOLDER = "ragtest/output/20240816-190921/artifacts"
-NEO4J_URI = "neo4j+s://bf17663e.databases.neo4j.io"
+NEO4J_URI = ""
 NEO4J_USERNAME = "neo4j"
-NEO4J_PASSWORD = "aRd5bEfCEY7w097XJQz8PB4nWT3CTkpsnWiOLeXYCUk"
+NEO4J_PASSWORD = ""
 NEO4J_DATABASE = "neo4j"
 
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))

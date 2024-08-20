@@ -38,9 +38,9 @@ class Neo4jMerger:
 
 if __name__ == "__main__":
     # Neo4j connection details
-    uri = "neo4j+s://bf17663e.databases.neo4j.io"
+    uri = ""
     user = "neo4j"
-    password = "aRd5bEfCEY7w097XJQz8PB4nWT3CTkpsnWiOLeXYCUk"
+    password = ""
 
     # Initialize Neo4jMerger
     merger = Neo4jMerger(uri, user, password)
