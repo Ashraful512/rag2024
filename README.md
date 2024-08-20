@@ -1,5 +1,5 @@
-```markdown
-# RAG2024: Graph-Based Knowledge Retrieval System
+
+### RAG2024: Graph-Based Knowledge Retrieval System
 
 ## Overview
 RAG2024 is a graph-based knowledge retrieval system built on **GraphRAG**. It leverages a
@@ -8,7 +8,7 @@ The extracted information is visualized and managed within a Neo4j graph databas
 This project is designed to streamline data processing by converting various formats (such as PDFs)
 into usable text, indexing them, and visualizing the relationships in a graph database.
 
-##Project Structure
+## Project Structure
 
 - `convert_pdf_to_txt.py`: Converts PDF files into `.txt` format, which GraphRAG requires to process the data.
 - `graphrag_importer.py`: Imports the extracted data from `.parquet` files into Neo4j, generating the graph structure.
