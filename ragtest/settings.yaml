@@ -4,11 +4,11 @@ skip_workflows: []
 llm:
   api_key: ${GRAPHRAG_API_KEY}
   type: openai_chat # or azure_openai_chat
-  model: qwen1.5/Qwen1.5-14B-Chat-AWQ
+  model:
   model_supports_json: true # recommended if this is available for your model.
   max_tokens: 2000
   request_timeout: 180.0
-  api_base:  http://yqvllm.k3s.tudb.work/v1/
+  api_base:
   # api_version: 2024-02-15-preview
   # organization: <organization_id>
   # deployment_name: <azure_model_deployment_name>
