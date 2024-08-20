@@ -2,13 +2,16 @@
 # RAG2024: Graph-Based Knowledge Retrieval System
 
 ## Overview
-**RAG2024** is a graph-based knowledge retrieval system built on **GraphRAG**. It leverages a Large Language Model (LLM) to extract nodes and relationships from textual data. The extracted information is visualized and managed within a Neo4j graph database. This project is designed to streamline data processing by converting various formats (such as PDFs) into usable text, indexing them, and visualizing the relationships in a graph database.
+RAG2024 is a graph-based knowledge retrieval system built on **GraphRAG**. It leverages a Large Language Model (LLM) to extract nodes and
+relationships from textual data. The extracted information is visualized and managed within a Neo4j graph database.
+This project is designed to streamline data processing by converting various formats (such as PDFs) into usable text,
+indexing them, and visualizing the relationships in a graph database.
 
-## Project Structure
+##Project Structure
 
-- **`convert_pdf_to_txt.py`**: Converts PDF files into `.txt` format, which is required for GraphRAG to process the data.
-- **`graphrag_importer.py`**: Imports the extracted data from `.parquet` files into Neo4j, generating the graph structure.
-- **`nodes_merger.py`**: Merges duplicate or similarly-meaning nodes into a unified node in Neo4j.
+- `convert_pdf_to_txt.py`**: Converts PDF files into `.txt` format, which is required for GraphRAG to process the data.
+- `graphrag_importer.py`**: Imports the extracted data from `.parquet` files into Neo4j, generating the graph structure.
+- `nodes_merger.py`**: Merges duplicate or similarly-meaning nodes into a unified node in Neo4j.
 
 ## Installation
 
@@ -102,13 +105,9 @@ The `Neo4jMerger` class initializes a connection to the Neo4j database using the
 The script identifies duplicate or similarly-named nodes (e.g., "卷烟通风率") and merges their properties and relationships into the target node.
 
 #### Handling Properties and Relationships:
-For each duplicate node, its properties and relationships are transferred to the target node using Cypher `SET` and `MERGE` commands.
+Each duplicate node's properties and relationships are transferred to the target node using Cypher `SET` and `MERGE` commands.
 
 #### Cleaning Up:
 After merging properties and relationships, the duplicate nodes are deleted from the graph to ensure a clean structure.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
 
-This `README.md` provides a clear and structured guide for users to understand the project and get started quickly. Let me know if any adjustments are needed!
