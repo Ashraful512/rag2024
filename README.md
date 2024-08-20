@@ -22,6 +22,7 @@ into usable text, indexing them, and visualizing the relationships in a graph da
 git clone https://github.com/Ashraful512/rag2024.git
 cd rag2024
 ```
+```
 
 ### Set up the Python environment:
 
