@@ -1,5 +1,5 @@
 
-### RAG2024: Graph-Based Knowledge Retrieval System
+# RAG2024: Graph-Based Knowledge Retrieval System
 
 ## Overview
 RAG2024 is a graph-based knowledge retrieval system built on **GraphRAG**. It leverages a
