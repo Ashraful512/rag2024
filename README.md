@@ -2,16 +2,17 @@
 # RAG2024: Graph-Based Knowledge Retrieval System
 
 ## Overview
-RAG2024 is a graph-based knowledge retrieval system built on **GraphRAG**. It leverages a Large Language Model (LLM) to extract nodes and
-relationships from textual data. The extracted information is visualized and managed within a Neo4j graph database.
-This project is designed to streamline data processing by converting various formats (such as PDFs) into usable text,
-indexing them, and visualizing the relationships in a graph database.
+RAG2024 is a graph-based knowledge retrieval system built on **GraphRAG**. It leverages a
+Large Language Model (LLM) to extract nodes and relationships from textual data.
+The extracted information is visualized and managed within a Neo4j graph database.
+This project is designed to streamline data processing by converting various formats (such as PDFs)
+into usable text, indexing them, and visualizing the relationships in a graph database.
 
 ##Project Structure
 
-- `convert_pdf_to_txt.py`**: Converts PDF files into `.txt` format, which is required for GraphRAG to process the data.
-- `graphrag_importer.py`**: Imports the extracted data from `.parquet` files into Neo4j, generating the graph structure.
-- `nodes_merger.py`**: Merges duplicate or similarly-meaning nodes into a unified node in Neo4j.
+- `convert_pdf_to_txt.py`: Converts PDF files into `.txt` format, which GraphRAG requires to process the data.
+- `graphrag_importer.py`: Imports the extracted data from `.parquet` files into Neo4j, generating the graph structure.
+- `nodes_merger.py`: Merges duplicate or similarly-meaning nodes into a unified node in Neo4j.
 
 ## Installation
 
@@ -24,7 +25,7 @@ cd rag2024
 
 ### Set up the Python environment:
 
-Ensure you have Python 3.10+ installed. You can create a virtual environment using the following commands:
+Please make sure you have Python 3.10+ installed. You can create a virtual environment using the following commands:
 
 ```bash
 python -m venv venv
