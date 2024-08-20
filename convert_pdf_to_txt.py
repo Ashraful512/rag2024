@@ -9,7 +9,7 @@ import nest_asyncio
 nest_asyncio.apply()
 
 # Set up your environment variables
-os.environ["LLAMA_CLOUD_API_KEY"] = "llx-HSlHhHHZTv7egFmWeG0vws1qzOXNwurYgwif1emQg6BW6GyN"
+os.environ["LLAMA_CLOUD_API_KEY"] = ""
 
 parser = LlamaParse(
     api_key=os.getenv("LLAMA_CLOUD_API_KEY"),  # Fetch from environment variable
