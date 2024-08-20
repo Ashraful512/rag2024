@@ -1,0 +1,37 @@
+              45                    y=0.024x+ 24.93R2 = 0.971
+              40
+          2
+           1  25
+                35
+              30           1|
+              20                             B2                B3
+              15           Bl
+              10
+                 100               200               300               400
+                         图 4-5 接装纸透气度与卷烟总通风率的关系
+
+     Figure 4-5 Relationship between the air permeability of paper and the total ventilation rate of cigarette
+
+    接装纸透气度不同透气度间的方差分析显示（表 4-7），不同规格接装纸透气度间差异
+达到极显著水平，说明接装纸透气度对卷烟总通风率为显著影响。
+                     表 4-7 不同规格接装纸透气度对卷烟总通风率的影响
+
+  Table 4-7 Influence of air permeability of packing paper of different specifications on total ventilation rate of
+
+                                       cigarettes
+
+ 变异来源         自由度          平方和          均方           F 值         F0.05        F0.01
+
+  区组间            2          0.01          0          0.99        3.94         18
+
+  处理间            2         35.58        17.79      4362.95       3.94         18
+
+   误差            4          0.02          0
+
+  总变异            8         35.61
+
+    （3）打孔排数对卷烟总通风率的影响
+    图 4-6 显示，卷烟的总通风率随着打孔排数的不断增加而升高，打孔排数和卷烟总通风
+率存在线性关系，其显现关系方程式为 y=4.59x+21.917，R2=0.9984（注：x 取整数）。
+
+                                         25

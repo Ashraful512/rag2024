@@ -1,0 +1,38 @@
+                              A3                   21.79dC                30.89cC
+                              A4                   22.90cB                32.18bB
+                              A5                   23.78aA                33.09aA
+                              A6                   23.51bA                32.85aA
+                              A1                   21.73eD                31.44cC
+                              A2                   22.23dC                31.45cC
+                              A3                   24.98cB                34.15bB
+        B3                                         25.31bB                34.30bB
+                              A4
+                              A5                   25.74aA                34.68aA
+                              A6                   25.82aA                34.64aA
+
+4.1.5    不同打孔方式对卷烟通风率的影响
+    分析表 4-13 可知，同一规格成型纸和接装纸，不同打孔方式处理下，随着打孔排数的
+增加，卷烟的卷烟滤嘴通风率和总通风率均随之增加。总通风率结果：3 排孔>2 排孔>1 排
+孔，打孔方式处理间的差异达到显著水平，说明在既定成型纸透气度和接装纸透气度的前提
+下，调节打孔排数可以调控卷烟成品的通风率。
+           表 4-13 同一规格成型纸和相同透气度的接装纸不同的打孔排数对通风率的影响
+
+ Table 4-13 Influence of different perforation rows on ventilation rate of receiving paper of the same specification
+
+                                  with the same permeability
+
+                                                     卷烟滤嘴通风
+ 成型纸透气度           接装纸透气度              打孔排数                             总通风率（%）
+                                                       率（%）
+                                         C1             10.33cC             22.02cC
+                        B1               C2             12.42bB             23.46bB
+                                         C3             14.95aA             24.01aA
+                                         C1             12.46cC             24.53cC
+      A1                B2               C2             18.71bB             29.62bB
+                                         C3             21.31aA             31.74aA
+                                         C1             13.83cC             27.88cC
+                        B3               C2             21.67bB             31.24bB
+                                         C3             23.78aA             35.19aA
+      A2                B1               C1             12.08cC             22.87cC
+
+                                           31

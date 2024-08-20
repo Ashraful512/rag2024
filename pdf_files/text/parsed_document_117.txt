@@ -1,0 +1,30 @@
+                                                                  {YEBA1
+                        0                                         15281
+                                （c）测量 81.66%通风率标准棒
+
+                       图 4-25 实验室 1 的仪器 A 与仪器 B 测量结果对比
+
+    Figure 4-25 Comparison of measurement results between instrument A and Instrument B in Laboratory 1
+
+    （a）相同环境下，仪器 A 测量结果比仪器 B 测量结果偏小，仪器 A 基本从不使用，
+仪器 B 日常使用。
+    （b）仪器 B 测量结果比仪器 A 测量结果更接近通风率标准棒标准值。
+    2）实验室 2
+                                                45,5
+4 17.6                                     1X88828
+9 17.1                                        2 4,5                                   Maze3
+                                           MlaaC                                      Maec
+  1040
+                                                43,5
+            （a）测量 17.64%通风率标准棒                      （b）测量 45.31%通风率标准棒
+                        1 78                                      1X8882
+                                                                  MlaaC
+                                （c）测量 81.66%通风率标准棒
+
+                         图 4-26 实验室 2 不同综合测试台测量结果对比
+
+       Figure 4-26 Comparison of measurement results of different comprehensive test stands in Lab 2
+
+    （a）测量 17.64%、45.31%通风率标准棒时，仪器 B3 测量结果最小。
+
+                                             61

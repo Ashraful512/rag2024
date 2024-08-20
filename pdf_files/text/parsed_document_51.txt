@@ -1,0 +1,56 @@
+ 制浆造纸技术工艺
+               40                                                              3. 1      卷烟纸透气度对中支卷烟逐口通风率影响较
+                                                                   15%
+                                                                   17%         大，且呈正相关关系，助燃剂钾钠比、麻浆含量对中逐口通风率/%
+               30                                                  21%         支卷烟逐口通风率有一定影响，卷烟纸定量、助燃剂
+                                                                               含量、灰分含量对中支卷烟逐口通风率影响较小。
+               20                                                              3. 2      中支卷烟第 2 口的通风率高于静态通风率，随
+                                                                               着抽吸的进行，不同卷烟纸参数卷烟，其逐口通风率
+               10                                                              递减 5% 左右。
+                                                                               3. 3      随着卷烟纸透气度的增大，抽吸时逐口间通风
+                 0                                                             率相差值明显增大。
+                       1        2         3        4        5         6
+                                        抽吸口序/口
+                                                                                                              参       考      文      献
+       图 7     卷烟纸灰分含量对中支卷烟逐口通风率的影响                                           ［1］      朱伯和，黎礼丽，张                  强，等 . 国产中支卷烟发展现状与市场前
+      Fig. 7    Effect of different ash content of cigarette paper on                  景分析［J］. 商场现代化，2019（11）：1-2.
+         puff by puff ventilation rate in medium-sized cigarette                       ZHU B H，LI L L，ZHANG Q，et al. Analysis on Development Sta‐
+                                                                                       tus and Market Prospect of Domestic Medium Cigarette［J］. Market
+         表 7     不同灰分含量卷烟抽吸口序与第 2~6 口逐口                                                Modernization，2019（11）：1-2.
+                               通风率的线性关系                                       ［2］      李    斌，庞红蕊，谢国勇，等 . 卷烟纸助燃剂含量与定量对卷烟
+ Table 7       Linear fitting of ventilation rate about 2~6 puffs of                   燃吸温度分布特征的影响［J］. 烟草科技，2013，46（12）：45-49.
+        different medium-sized cigarette paper ash content                             LI B，PANG H R，XIE G Y，et al. Effects of Combustion Improver
+                                                                                       Content Grammage of Cigarette Paper on Temperature Distribution in
+     灰分含量/%                          拟合方程                                R2            Cigarette Burning Cone［J］. Tobacco Science & Technology，2013，
+           15                  y = -0.051x + 0.276                     0.954           46（12）：45-49.
+           17                  y = -0.049x + 0.361                     0.962  ［3］      唐小雪，潘连华，黄宇亮，等 . 卷烟纸参数对中支卷烟常规烟气
+                                                                                       成 分 释 放 量 及 其 符 合 度 的 影 响［J］. 轻 工 学 报 ，2023，38（2）：
+           21                  y = -0.054x + 0.371                     0.982           102-109.
+                                                                                       TANG X X，PAN L H，HUANG Y L ，et al.                     Influence of Cigarette
+       总的来看，卷烟纸透气度对中支卷烟逐口通风率                                                           Paper Parameters on the Release of Routine Smoke Components of
+影响较大，助燃剂钾钠比、麻浆含量有一定影响。卷                                                                Demi-slim Cigarettes and Their Conformity［J］. Journal of Light In‐
+                                                                                       dustry，2023，38（2）：102-109.
+烟纸透气度增大，卷烟逐口通风率增大，抽吸时进入                                                       ［4］      戴    路，汤晓东，张立立，等 . 卷烟纸钾盐对卷烟燃吸过程的影
+主流烟气的进气量增加，达到主流烟气稀释率增加的                                                                响［J］. 烟草科技，2021，54（12）：73-80.
+效果。由相关文献可知，逐口通风率越大，对卷烟主                                                                DAI L，TANG X D，ZHANG L L，et al. Effects of Potassium Salts
+流烟气中的总粒相物、烟碱和 CO 逐口释放量稀释作                                                              in Cigarette Paper on Cigarette Smoking Process［J］. Tobacco Sci‐
+用越大[19-20]，相对分子质量较小的有机酸降低率较高，                                                          ence & Technology，2021，54（12）：73-80.
+而相对分子质量较大的有机酸降低率较低[21]。随着抽                                                    ［5］      李国政，孙培建，高明奇，等 . 卷烟纸特性对短支卷烟主流烟气
+                                                                                       7 种有害成分释放量及 H 值的影响［J］. 中国造纸，2021，40（6）：
+吸口数的增加，烟支未燃长度减小，中支卷烟逐口通                                                                54-63.
+风率下降在 5% 左右，不同卷烟纸参数对逐口通风率                                                              LI G Z，SUN P J，GAO M Q，et al. Effect of Cigarette Paper Charac‐
+                                                                                       teristics on the Release of Seven Harmful Components and H Value
+的影响小于烟支未燃长度的影响。随着逐口通风率逐                                                                of Short Cigarettes Mainstream Smoke［J］.             China Pulp & Paper，
+渐减小，卷烟主流烟气通风稀释作用变差，焦油、烟                                                                2021，40（6）：54-63.
+碱和苯酚的释放量不断增加，以抽吸第 5 和第 6 口时                                                   ［6］      杨    松，赵永振，孙学辉，等 . 卷烟纸参数对短支卷烟主流烟气
+为最大[22]。                                                                               常 规 成 分 释 放 量 及 感 官 质 量 的 影 响［J］. 烟 草 科 技 ，2021，54
+                                                                                     （1）：54-64.
+3     结      论                                                                         YANG S，ZHAO Y Z，SUN X H，et al.                    Effects of Cigarette Paper
+                                                                                       Physical Parameters on Routine Smoke Chemical Component Deliver‐
+       本研究通过制备不同卷烟纸透气度、定量、助燃                                                           ies and Sensory Quality of Short Cigarettes［J］.          Tobacco Science &
+剂钾钠比、麻浆含量、助燃剂含量及灰分含量的卷烟                                                                Technology，2021，54（1）：54-64.
+纸，卷制成中支卷烟，对其逐口通风率进行测定，并                                                       ［7］      庞永强，黄春晖，陈再根，等 . 通风稀释对卷烟燃烧温度及主流
+                                                                                       烟 气 中 主 要 有 害 成 分 释 放 量 的 影 响［J］. 烟 草 科 技 ，2012，45
+系统考察卷烟纸参数对中支卷烟逐口通风率的影响                                                               （11）：29-32.
+规律。                                                                                    PANG Y Q，HUANG C H，CHEN Z G，et al. Influence of Ventila‐
+  ·102·                                                                                                China Pulp & Paper            Vol. 43，No. 3，2024

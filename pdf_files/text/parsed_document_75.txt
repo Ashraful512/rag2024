@@ -1,0 +1,36 @@
+嘴通风率之间呈正相关关系，其关系可用一元线性方程式为 y=0.029x+14.09（R²= 0.987）表
+示。
+              35                    Y= 0.029x+ 14.09R2 = 0.987
+              30
+          2   25
+          1   2015                                              B3
+              10                             B2
+                           Bl
+                100                200                300                400
+                       图 4-2 不同接装纸透气度对卷烟滤嘴通风率的影响
+
+        Figure 4-2 Influence of different paper permeability on the ventilation rate of cigarette holder
+
+    表 4-2 显示，不同规格接装纸透气度之间差异显著，说明接装纸透气度显著影响卷烟滤
+嘴通风率。
+               表 4-2 不同规格接装纸透气度间的对卷烟滤嘴通风率影响的方差分析
+
+Table 4-2 Variance analysis of the influence of air permeability of different specifications on the ventilation rate of
+
+                                     cigarette holder
+
+  变异来源             自由度          平方和           均方          F 值         F0.05      F0.01
+
+    区组间               2           0.01         0          0.75        3.94        18
+
+    处理间               2          51.94       25.97       7123.5       3.94        18
+
+     误差               4           0.01         0
+
+    总变异               8          51.96
+
+    （3）打孔排数对卷烟滤嘴通风率的影响
+    分析图 4-3 可知，卷烟滤嘴通风率随着打孔排数的增加而升高。打孔排数与卷烟滤嘴通
+风率呈线性正相关关系，其线性关系为 y=5.44x+10.557，R2=0.9975（注：x 取整数）。
+
+                                          19

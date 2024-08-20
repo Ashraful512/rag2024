@@ -1,0 +1,29 @@
+# 第 28 卷   第 5 期 郑 州 轻 工 业 学 院 学 报 (自然科学版) Vol． 28 No． 5 2013 年 10 月 JOUＲNAL OF ZHENGZHOU UNIVEＲSITY OF LIGHT INDUSTＲY( Natural Science) Oct． 2013
+
+文章编号: 2095 － 476X( 2013) 05 － 0043 － 04
+
+# 烟支通风率控制参数研究
+
+黄晓飞1， ， 2 姚二民2 (1． 广西中烟工业有限责任公司 柳州卷烟厂，广西 柳州 545005; 2． 郑州轻工业学院 食品与工程学院，河南 郑州 450001)
+
+摘要: 通过对影响烟支通风率的控制参数进行单因素试验，结合3 因素 3 水平曲面响应分析法，研究了各工艺参数对烟支通风率的影响． 结果表明，烟支质量、接装纸的动摩擦系数、接装纸的无胶区面积对烟支通风率影响显著． 在生产通风率为 48． 0% 的卷烟时，烟支质量为0． 88 g，接装纸的动摩擦系数为 0． 36，接装纸的无胶区面积为 165 mm2 ，此时，烟支通风率控制最优． 试验建立的回归方程模型有效且显著，可用于指导机台操作人员进行通风率稳定性的控制．
+
+关键词: 烟支通风率; 动摩擦系数; 烟支质量; 响应曲面法
+
+中图分类号: TS411 文献标志码: A DOI: 10． 3969 / j． issn． 2095 － 476X． 2013． 05． 010
+
+# Research of controlling parameters of cigarette ventilation rate
+
+HUANG Xiao-fei 1，2 ， YAO Er-min2 (1． Liuzhou Cigarette Factory，Guangxi Tobacco Industry Co． ，Ltd． ，Liuzhou 545005，China; 2． College of Food and Bioengineering，Zhengzhou University of Light Industry，Zhengzhou 450001，China)
+
+Abstract: By the single factor test on the controlling parameter which influences the ventilation rate of cigarette，combined with the response surface methodology with three factors at three levels，the influence of process parameters on the ventilation rate of cigarette was studied． The results showed that the cigarette weight and the coefficient of kinematic friction of tipping paper，as well as the no-glue area of tipping paper，had significant influence on the ventilation rate of cigarette． When process parameters as follows: ventilation rate 48． 0% ，cigarette weight 0． 88 g，coefficient of kinematic friction of tipping paper 0． 36 and no-glue area of tipping paper 165 mm2 ，the optimal control effect was obtained． The regression equation model that established in test was effective and significant，it could guide control the stability of the ventilation rate．
+
+Key words: cigarette ventilation rate; the coefficient of dynamic friction; cigarette weight; response surface method
+
+卷烟的一项重要考量指标，它主要影响卷烟的烟气浓度，人们在吸食卷烟时，外部气流通过孔洞对主流烟气进行稀释，使吸入人体的焦油量相对减少． 因此，打孔卷烟的开发过程中，在保证卷烟香气的
+
+引言
+
+卷烟接装纸打孔是目前各卷烟企业广泛采用的一种降焦减害方式． 烟支通风率是接装纸打孔后
+
+收稿日期: 2013 － 05 － 06 作者简介: 黄晓飞( 1979—) ，男，广西壮族自治区柳州市人，广西中烟工业有限责任公司柳州卷烟厂助理工程师，郑州轻 工业学院硕士研究生，主要研究方向为卷烟工艺及工艺管理．

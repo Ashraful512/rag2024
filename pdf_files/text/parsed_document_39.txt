@@ -1,0 +1,55 @@
+· 46·                                                   烟 草 科 技                                                   2015 年
+
+nicotine yield, while positively correlated to the deliveries of acetaldehyde, CO, benzo[a]pyrene and NH3
+per unit nicotine yield. 2) Under HCI smoking regime, filter ventilation rate negatively correlated to the
+deliveries   of  formaldehyde,    crotonaldehyde,    benzo[a]pyrene,    phenol   and   nicotine,  while   positively
+correlated to the delivery of HCN, there was no significant correlation between filter ventilation rate and
+the deliveries of the other harmful components. The deliveries of acetaldehyde, acrolein, crotonaldehyde,
+CO, HCN and NH3 per unit nicotine yield also positively correlated to filter ventilation rate.
+Keywords:      Smoking    regime;    Filter  ventilation   rate;  Delivery;   Harmful    component;     Mainstream
+cigarette smoke
+
+      目前，国内外卷烟企业普遍采用改变卷烟纸                                                          表 1   卷烟样品参数
+透气度、滤嘴通风率等卷烟材料设计参数的方法                                               编号           卷烟类型         盒标焦油量/        滤嘴通风率
+来 降 低 主 流 烟 气 中 有 害 成 分 的 释 放 量 。 研 究 表                                                        (mg·支-1)      实测值/%
+明，对于 CO、烟碱、氮氧化物、香味成分等多种烟                                              1           烤烟型            13.0            0.5
+                                                                      2           烤烟型            13.0            0.6
+气释放物成分，滤嘴通风技术能显著降低其在 ISO                                              3           烤烟型            10.0            0.6
+抽 吸 模 式 下 的 测 定 值［1-7］。 近 年 来 ，WHO 烟 草 制                              4           烤烟型            11.0            0.6
+品管制研究小组提出了卷烟烟气中 9 种 优 先 管 制                                           5           烤烟型            13.0            0.6
+成 分（乙 醛 、丙 烯 醛 、苯 、苯 并 [a] 芘 、1,3-丁二烯、                                6           烤烟型            13.0            0.6
+CO、甲醛、NNN 和 NNK），并建议在深度抽吸模式                                           7           烤烟型            13.0            0.7
+下以单位烟碱有害成分释放量进行限量管制［8］。                                               8           烤烟型            13.0            0.8
+                                                                      9           烤烟型            11.0            0.9
+国内相关研究主要集中在不同抽吸模式对卷烟主                                                 10          烤烟型            13.0            8.7
+流烟气中有害成分释放量的影响［9-12］方面，关于卷                                            11          烤烟型            12.0           10.0
+烟滤嘴通风对 FCTC 9 种优先管制成分的影响研                                             12          烤烟型            12.0           10.9
+究较少，而且深度抽吸模式及单位烟碱有害成分                                                 13          烤烟型            12.0           11.3
+                                                                      14          烤烟型            12.0           13.7
+释放量计算方式下滤嘴通风率对有害成分释放量                                                 15          烤烟型            10.0           16.7
+的影响研究未见报道。因此，综合国内关注的卷                                                 16          烤烟型            11.0           18.7
+烟主流烟气 7 种有害成分和 FCTC 建议的 9 种优先                                         17          烤烟型              8.0          23.5
+管制成分，以 13 种有害成分（乙醛、丙烯醛、苯、苯                                            18          烤烟型            11.0           23.8
+并[a]芘、1,3-丁二烯、CO、甲醛、NNN、NNK、苯酚、                                       19          烤烟型            10.0           29.8
+                                                                      20          烤烟型              8.0          31.2
+巴豆醛、HCN 和氨）为研究目标，在 ISO 和加拿大                                           21          烤烟型              5.0          38.0
+卫 生 部 深 度（HCI）抽 吸 模 式 下 ，测 试 不 同 滤 嘴 通                                22          烤烟型              5.0          38.7
+风率卷烟产品中烟碱和 13 种有害成分释放量，以                                              23          烤烟型              5.0          41.4
+探讨不同抽吸模式下滤嘴通风率与有害成分释放                                                 24          烤烟型              3.0          65.7
+量的相关性，以及滤嘴通风率与单位烟碱有害成                                                 25          混合型            11.0            0.6
+                                                                      26          混合型            10.0           14.0
+分释放量的相关关系。                                                            27          混合型            12.0           20.3
+1    材料与方法                                                            28          混合型              7.0          21.0
+                                                                      29          混合型              8.0          21.0
+1.1   卷烟样品                                                            30          混合型              8.0          21.7
+      选择 41 个不同滤嘴通风率的卷烟样品为实验                                          31          混合型            10.0           21.8
+                                                                      32          混合型            10.0           24.0
+样品，其中烤烟型卷烟样品 24 个，混合型卷烟样                                              33          混合型            12.0           26.0
+品 17 个。滤嘴通风率<1%的卷烟样品有 10 个（烤                                          34          混合型              6.0          28.0
+烟型 9 个，混合型 1 个），滤嘴通风率在 5%~20%的                                        35          混合型              8.0          28.3
+卷烟样品有 8 个（烤烟型 7 个，混合型 1 个），滤嘴                                         36          混合型              8.0          41.1
+通风率在 20%~30%的卷烟样品有 12 个（烤烟型 3                                         37          混合型              5.0          42.0
+                                                                      38          混合型              5.0          43.3
+个，混合型 9 个），滤嘴通风率>30%的卷烟样品有                                            39          混合型              4.0          50.0
+11 个（烤烟型 5 个，混合型 6 个）。所有卷烟样品的                                         40          混合型              3.0          62.0
+具体参数见表 1。                                                             41          混合型              1.0          71.0

@@ -1,0 +1,47 @@
+deliveries of routine smoke constituents was not significant；however laser pulse duration significantly negatively
+correlated to the deliveries of tar，nicotine and carbon monoxide in cigarette smoke with the correlation coefficients
+of -0.874，-0.936 and -0.804，respectively. 2) With the fixed total number and central position of holes，ventilation
+rate decreased，while the deliveries of routine smoke constituents increased with the increase of row number；with
+the fixed hole number and row number，ventilation rate decreased，while the deliveries of routine smoke constituents
+increased with the increase of distance between hole position and mouth end.
+Keywords：Online laser perforation parameter；Cigarette；Ventilation rate；Tar；Nicotine；Carbon monoxide
+
+     烟 支 在 线 激 光 打 孔 是 在 烟 支 卷 接 过 程 中 ，利 用 高                  1.2   方 法
+能 激 光 ，将 卷 烟 接 装 纸 和 滤 棒 成 型 纸 打 穿 并 进 入 滤 棒                   1.2.1  试验卷烟样品的制备
+一 定 深 度 ，形 成 微 小 孔 洞 ，在 卷 烟 抽 吸 的 过 程 中 ，稀 释                       （1）利 用 在 线 激 光 打 孔 设 备 ，“ 中 南 海 ”品 牌 某 混对
+烟 气 ，从 而 达 到 降 焦 减 害 目 的 的 一 种 方 法［1］。 在 线 激                   合 型 卷 烟 进 行 打 孔 数 量 和 激 光 脉 冲 持 续 时 间 的 两 因 素
+光 打 孔 具 有 投 资 少 、见 效 快 、可 靠 性 高 等 特 点 ，可 以 通                   三 水 平 实 验（表 1），以 考 察 打 孔 数 量 和 激 光 脉 冲 持 续 时
+过 设 定 不 同 的 打 孔 参 数 实 现 卷 烟 产 品 多 项 指 标 的 在 线                  间对卷烟通风率及常规烟气成分释放量的影响。
+调 整 。 打 孔 接 装 纸 通 过 影 响 卷 烟 内 烟 气 的 流 动 ，进 而                      表 1   打孔数量（A）和激光脉冲持续时间（B）因素水平
+影 响 卷 烟 滤 嘴 通 风 率 、单 位 焦 油 一 氧 化 碳 释 放 量 及 卷                           水 平                A/ 个                B/μs
+烟 感 官 质 量［2］。 目 前 有 关 卷 烟 滤 嘴 通 风 稀 释 的 研 究 主                           1                  23                  56
+要 集 中 在 预 打 孔 接 装 纸 透 气 度 对 卷 烟 理 化 指 标 及 感 官                           2                  25                  76
+质 量 的 影 响 评 价 方 面［3-19］，打 孔 参 数 的 研 究 则 较 少 。                           3                  27                  96
+烟 支 在 线 激 光 打 孔 技 术 的 发 展 使 打 孔 参 数 对 卷 烟 理 化                      （2）利 用 在 线 激 光 打 孔 设 备 ，分 别 制 作 总 孔 数 为 30
+指 标 的 影 响 研 究 成 为 可 能 。 莫 远 烈［20］、邓 来 红［21］等 通                 和 18 的 1 排 孔 、2 排 孔 和 3 排 孔 试 验 卷 烟 样 品 ，以 考 察
+过 单 因 素 实 验 设 计 ，考 察 了 在 线 激 光 打 孔 数 量 和 激 光                   总 孔 数 一 定 时 ，打 孔 排 数 对 卷 烟 通 风 率 和 常 规 烟 气 成
+脉 冲 持 续 时 间 对 卷 烟 通 风 率 的 影 响 ，并 建 立 了 打 孔 数                   分释放量的影响。
+量 、激 光 脉 冲 持 续 时 间 与 卷 烟 通 风 率 的 线 性 回 归 模                         （3）按 表 2 所 示 的 设 计 方 案 制 作 总 孔 数 和 打 孔 排 数
+型 ，但 是 在 线 激 光 打 孔 的 其 他 影 响 因 素 尚 未 见 研 究 报                   一 定 、打 孔 位 置 不 同 的 试 验 卷 烟 样 品 ，考 察 距 嘴 端 打 孔
+道 。 因 此 ，考 察 了 在 线 激 光 打 孔 参 数 如 打 孔 数 量 、激                    距离对卷烟通风率和常规烟气成分释放量的影响。
+光 脉 冲 持 续 时 间 、打 孔 排 数 和 打 孔 位 置 对 卷 烟 通 风 率                                 表 2   不同打孔位置的试验卷烟
+及 常 规 烟 气 成 分 释 放 量 的 影 响 ，旨 在 为 在 线 激 光 打 孔                     距 嘴 端 距 离 /mm          总 孔 数 / 个             排 数
+技 术 在 实 际 生 产 中 的 推 广 应 用 提 供 理 论 依 据 和 数                              12.0                15                  1
+据 支 撑 。                                                                16.0                15                  1
+                                                                       18.0                15                  1
+1   材料与方法                                                              11.5                30                  2
+                                                                       15.5                30                  2
+1.1   材 料 和 仪 器                                                        17.5                30                  2
+   “ 中 南 海 ”品 牌 某 混 合 型 卷 烟 配 方 烟 丝（北 京 卷 烟                    1.2.2  试验卷烟样品的测试
+厂）；未 打 孔 接 装 纸（68 mm；潍 坊 华 港 包 装 材 料 有 限 公                          按 照 标 准 GB/T 22838.15—2009［22］ ，GB/T         19609—
+司）；活 性 炭 醋 纤 二 元 复 合 滤 棒（100 mm，牡 丹 江 卷 烟 材                    2004［23］，GB/T 23355—2009［24］和 GB/T 23356—2009［25］的
+料 厂）；含 麻 格 纹 卷 烟 纸（30 g，50 CU，牡 丹 江 恒 丰 纸 业                    方法测定卷烟通风率及焦油、烟碱和一氧化碳释放量。
+股份有限公司）。                                                       1.2.3  数据处理与分析
+     PROTOS70 卷 接 机 组（常 德 烟 草 机 械 有 限 责 任 公                         用 Minitab 统 计 软 件 进 行 数 据 处 理 与 分 析［26-27］。 通
+司）；JK250PS 在 线 式 卷 烟 激 光 打 孔 装 置（南 京 瑞 驰 电 子                   过 极 差 分 析 ，比 较 打 孔 数 量 和 激 光 脉 冲 持 续 时 间 对 试
+技 术 工 程 实 业 有 限 公 司）；SM450 直 线 型 吸 烟 机（英 国                     验 卷 烟 通 风 率 和 常 规 烟 气 成 分 释 放 量 的 影 响 程 度 ；通
+Cerulean 公司）；HP7890 气相色谱仪（美国 Agilent 公司）；                      过 散 点 图 和 箱 线 图 直 观 地 反 映 卷 烟 理 化 指 标 随 打 孔 排
+PI-214A 电 子 天 平（感 量 ：0.0001 g，瑞 士 Mettler Toledo 公             数 变 化 的 趋 势 ；通 过 方 差 分 析 ，确 定 各 实 验 因 素 对 结
+司）；OM- Ⅰ 综 合 测 试 台 、PDS-W11 烟 支 分 选 仪（北 京 欧                    果 影 响 的 显 著 程 度 ；通 过 回 归 分 析 ，建 立 试 验 卷 烟 通
+美利华科技有限公司）。                                                    风 率 和 常 规 烟 气 成 分 释 放 量 与 相 关 打 孔 参 数 的 回 归
+ 46

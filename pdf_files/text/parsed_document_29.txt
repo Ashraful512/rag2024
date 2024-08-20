@@ -1,0 +1,50 @@
+         2018 年 5 月                                                  烟 草 科 技                                                     May 2018
+      第 51 卷 第 5 期                                       Tobacco Science &      Technology                                     Vol. 51 No. 5
+
+      预打孔卷烟接装纸施胶效果及胶辊设计参数
+      对通风率的影响
+      邵名伟1 ，严志景*1，谢映松1，                        张保永2 ，何金华1，                张      超1 ，瞿先中1，            卢幼祥1
+      1. 安徽中烟工业有限责任公司，安徽省合肥市天达路 9 号                                     230088
+      2. 安徽中烟工业有限责任公司蚌埠卷烟厂，安徽省蚌埠市长丰路 258 号                                              233010
+
+      摘要：为考察预打孔卷烟接装纸施胶效果对通风率的影响，建立了一种接装纸施胶效果评价及无胶区偏
+      移时的优化调整方法，在无胶区处于理想状态下利用正交试验研究了无胶区长度、宽度以及施胶厚度对
+      通风率的影响。结果表明：①对预打孔卷烟通风率的影响依次为无胶区长度、宽度和施胶厚度，无胶区
+      长度对通风率的影响达到显著水平。②随着无胶区长度的增加，预打孔卷烟通风率均值呈上升趋势，通
+      风率变异系数呈下降趋势。③根据试验结果可确定“黄山（B）”牌号卷烟最佳胶辊参数组合为无胶区长
+      度 22 mm，宽度 8 mm，施胶厚度 0.03 mm。该方法为提高预打孔卷烟通风率的稳定性提供了技术支持。
+      关键词：预打孔卷烟；通风率；接装纸；施胶效果；正交试验；胶辊
+      中图分类号：TS433                 文献标志码： A              文章编号：1002-0861（2018）05-0081-06
+
+      Influences of preperforated tipping paper gluing factors and design parameters of glue
+      roller on ventilation rate of cigarette
+      SHAO     Mingwei1, YAN     Zhijing*1, XIE Yingsong1,     ZHANG     Baoyong2,    HE  Jinhua1,  ZHANG      Chao1,  QU   Xianzhong1,   LU
+      Youxiang1
+      1. China Tobacco Anhui Industrial Co., Ltd., Hefei 230088, China
+      2. Bengbu Cigarette Factory, China Tobacco Anhui Industrial Co., Ltd., Bengbu 233010, Anhui, China
+
+      Abstract: To investigate the influences of preperforated tipping paper gluing factors on the ventilation rate of
+      cigarette, a tipping paper gluing effect evaluation and            gluing position adjustment method was developed. With
+      glue-free zone in its right position, the influences of the length and width of glue-free zone and gluing thickness
+      on the ventilation rate were studied via an orthogonal experiment. The results showed that: 1) These factors in
+      the order of influence on the ventilation rate were glue-free zone length                    ＞   glue-free zone width       ＞   gluing
+      thickness, wherein the influence of glue-free zone length reached a significance level. 2) With the extension of
+      glue-free   zone,   the  average    ventilation   rate  increased,    while  the   coefficient   of  variation   of  ventilation   rate
+      decreased.    3) The optimal parameters of glue roller for cigarette brand“Huangshan (B)”were glue-free zone
+      length 22 mm, width 8 mm, and gluing thickness 0.03 mm. The mentioned method provides a technical support
+      for promoting the consistency of ventilation rate of cigarette with preperforated tipping paper.
+      Keywords: Preperforated cigarette; Ventilation rate; Tipping paper; Gluing effect; Orthogonal experiment; Glue
+      roller
+
+            降焦减害是近年来烟草行业研究及关注的热                                             用且效果较好的一项降焦减害技术，原因是卷烟
+      点问题，接装纸打孔通风则是各工业企业普遍采                                                 通风率会直接影响卷烟焦油量和感官质量［1-5］，因
+      收稿日期：2017-09-15                修回日期：2018-02-02
+      基金项目：安徽中烟工业有限责任公司科技项目“预打孔卷烟通风率控制技术的研究”2015107）。（
+      作者 简介：邵名伟（1970-），本科，工程师，主要从事卷烟工艺研究与管理。E-mail：shaomw123456@163.com；*通信作者: 严志
+                   景，E-mail：412745370@qq.com
+      引文格式：邵名伟，严志景，谢映松，等. 预打孔卷烟接装纸施胶效果及胶辊设计参数对通风率的影响［J］. 烟草科技，2018，51
+                  （5）：81-86. （SHAO Mingwei, YAN Zhijing, XIE Yingsong, et al. Influences of preperforated tipping paper gluing
+                   factors and design parameters of glue roller on ventilation rate of cigarette［J］. Tobacco Science & Technology, 2018，
+                   51（5）：81-86.）DOI：10.16135/j.issn1002-0861.2017.0387
+
+万方数据

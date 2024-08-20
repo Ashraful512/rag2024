@@ -1,0 +1,104 @@
+                     · 88·                                             烟 草 科 技  2020 年
+
+ 具有较大的流速（最高达到 3.90 m/s，图中红色部
+ 分），约为其余部分气体流速（约 0.39 m/s，图中蓝色
+ 部分）的近 10 倍，该结果与文献［7］接近。
+
+ 5    结论
+
+      （1）可 以 利 用 计 算 流 体 力 学（CFD）技 术 对 卷
+ 烟内部流场进行模拟，通过处理模拟结果可以得
+ 到较为准确的卷烟通风率和吸阻的模拟值。所有
+ 试样卷烟吸阻的模拟值与实测值非常接近，平均
+ 偏差约 15 Pa；通风率模拟值与实测值相差平均偏
+ 差为 1.5%，仿真模型可信度较高。
+      （2）对无滤嘴通风卷烟，卷烟纸透气度对卷烟
+ 整 体 通 风 有 显 著 影 响 。 卷 烟 纸 透 气 度 每 增 加 20
+
+ CU，就 会 增 加 约 4% 的 空 气 从 卷 烟 纸 进 入 烟 支 内
+ 部。此外，高透气卷烟纸也会略微增加烟支后部
+ 的卷烟纸进气量，但并不显著。
+      （3）与传统测量方法相比，通过仿真模拟可以
+ 获取更多详细的流场参数，例如卷烟纸进气量的
+ 分布、卷烟各部分压强的分布、卷烟内各部分速率
+ 的分布和速度方向等数据。根据仿真结果，滤嘴
+ 通风对卷烟整体通风有较大影响，通过通风孔的
+
+ 最大气流速度可达 0.83 m/s。与无滤嘴通风时相
+ 比 ，滤 嘴 通 风 导 致 卷 烟 纸 进 气 量 减 少 2%~3% ，更
+ 多的空气倾向于从卷烟后半部进入烟支，接装纸
+ 透气度几乎不改变卷烟纸进气量分布。
+      （4）根据仿真结果，使用沟槽滤棒除了引起卷
+ 烟吸阻降低外，也会略微增加中后部卷烟纸的进
+ 气量，沟槽段内的空气流速最高可达 3.9 m/s。
+
+ 参考文献
+［1］     Baker   R  R.  Gas   velocities  inside a burning cigarette
+       ［J］. Nature，1976，264（5582）：167-169.
+［2］     Eitzinger B, Ederer G. The use of nonlinear constitutive
+        equations to evaluate draw resistance and filter ventilation
+       ［J］.     Beiträge    zur   Tabakforschung       International/
+        Contributions   to  Tobacco    Research， 2014， 19（4）：
+        177-188.
+［3］     Colard S, Julien S. Characterisation of the draw resistance
+        across a lit cigarette［J］. Beiträge zur Tabakforschung
+        International/Contributions to Tobacco Research，2014，
+        25（6）：586-594.
+［4］     王乐，李斌，鲁端峰，等. 不同抽吸状态下卷烟动态
+        通风特征的数值模拟［J］. 烟草科技，2016，49（1）：
+        60-65.
+        WANG Le，LI Bin，LU Duanfeng，et al. Numerical
+        simulation   of  dynamic    ventilation  characteristics  of
+        cigarette at different puff profiles［J］.   Tobacco Science
+        & Technology，2016，49（1）：60-65.
+［5］    曾劲松，杜亮，唐大荣. 不同烟丝透气度和吸压下卷
+       烟 烟 气 流 动 的 数 值 模 拟［J］.               造 纸 科 学 与 技 术 ，
+       2017，36（4）：44-49.
+       ZENG Jinsong，DU Liang，TANG Darong. Numerical
+       simulation   of   smoke   flow   in  different  cut  tobacco
+       breathability and suction pressure［J］. Paper Science &
+       Technology，2017，36（4）：44-49.
+［6］    余其昌，吴君章，黄翼飞，等. 基于 CFD 模拟卷烟烟
+       气 扩 散 过 程 的 影 响 因 素［J］. 烟 草 科 技 ，2017，50
+       （5）：73-78.
+       YU Qichang， WU Junzhang， HUANG Yifei， et al.
+       Factors influencing diffusion process of cigarette smoke
+       by    CFD-based     simulation［J］.     Tobacco   Science   &
+       Technology，2017，50（5）：73-78.
+［7］    孙志伟，文建辉，杜文，等. 沟槽滤嘴烟气流场分布
+       特征的计算流体力学模拟［J］. 烟草科技，2018，51
+       （10）：90-96.
+       SUN Zhiwei，WEN Jianhui，DU Wen，et al. Simulation
+       of flow field distribution of cigarette smoke in grooved
+       filter by   computational    fluid  dynamics［J］.     Tobacco
+       Science & Technology，2018，51（10）：90-96.
+［8］    颜聪，谢卫，李跃锋，等. 卷烟阴燃过程的数值模拟
+       ［J］. 烟草科技，2014，47（6）：15-20，37.
+       YAN Cong，XIE Wei，LI Yuefeng，et al. Numerical
+       simulation of cigarette smoldering［J］. Tobacco Science
+       & Technology，2014，47（6）：15-20，37.
+［9］    李斌，刘民昌，银董红，等. 卷烟燃吸过程中温度分
+       布检测系统的开发与应用［J］. 烟草科技，2013（2）：
+       24-26，56.
+       LI   Bin， LIU      Minchang， YIN        Donghong， et       al.
+       Development and application of system for measuring
+       temperature    distribution   in  cigarette   burning   cone
+       during smoking［J］. Tobacco Science & Technology，
+       2013（2）：24-26，56.
+［10］ Li B，Zhao L C，Wang L，et al. Gas-phase pressure
+        and  flow   velocity  fields  inside  a  burning   cigarette
+        during a puff［J］. Thermochimica Acta，2016，623：
+        22-28.
+［11］ Li B，Cui X M，Zhao L C，et al. Pressure and gas
+       flow    distribution  inside   the  filter of   a  non-filter
+       ventilated lit cigarette during puffing［J］. Beiträge zur
+       Tabakforschung     International/Contributions   to  Tobacco
+       Research，2017，27（6）：113-124.
+［12］ GB/T      22838.15—2009        卷 烟 和 滤 棒 物 理 性 能 的 测
+       定     第 15 部分：卷烟             通风的测定           定义和测量原
+       理［S］.
+       GB/T    22838.15—2009        Determination     of    physical
+       characteristics for cigarettes and filter rods—Part      15：
+       Cigarettes—Determination       of   ventilation—Definitions
+       and measurement principles［S］.
+                                             责任编辑           周雅宁

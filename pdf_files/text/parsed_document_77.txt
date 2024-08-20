@@ -1,0 +1,59 @@
+                表 4-4 成型纸透气度、接装纸透气度及打孔排数对卷烟滤嘴通风率影响
+
+    Table 4-4 Influence of air permeability of packing paper, air permeability of formed paper and number of
+
+                            perforations on ventilation rate of cigarette nozzle
+
+  变异来源              自由度            平方和             均方             F 值            F0.05        F0.01
+
+     区组                9             1.50          0.17           1.04           1.97         2.59
+
+    处理间               53          17734.00        334.61        2101.16          1.48         1.73
+
+      A                5           3041.06        608.21        3819.11          2.31         3.21
+
+      B                2           3110.86       1555.44        9763.83          3.09         4.82
+
+      C                2          10664.01       5333.52       33490.20          3.09         4.82
+
+     A×B              10            263.1          23.61         167.25          1.93          2.5
+
+     A×C              10            277.18         27.73         174.05          1.93          2.5
+
+     B×C               4            322.52         80.64         503.27          2.46         3.51
+
+   A×B×C              20            49.05          2.45           15.4           1.68         2.07
+
+     误差              477            75.94          0.15
+
+    总变异              539          17811.47
+
+     表 4-5 表明，三因素互作的显著性分析中，A5×B3×C3 的处理的卷烟滤嘴通风率最大，
+与 A4×B3×C3 处理的结果差异不明显，但二者均显著或极显著高于其他处理。A1×B1×C1
+的处理的卷烟滤嘴通风率最小。
+                表 4-5 接装纸透气度、成型纸透气度及打孔排数对卷烟滤嘴通风率的影响
+
+ Table 4-5 Influences of the air permeability of the connecting paper, the air permeability of the formed paper and
+
+                   the number of perforations on the ventilation rate of the cigarette holder
+
+          处理组合                         平均数                    5%差异                    1%差异
+
+         A5×B3×C3                       32.54                     a                       A
+
+         A4×B3×C3                       32.53                     a                       A
+
+         A6×B3×C3                       31.81                     b                       B
+
+         A3×B3×C3                       30.90                     c                       C
+
+         A5×B2×C3                       30.20                     d                       D
+
+         A6×B2×C3                       30.14                     d                       D
+
+         A4×B2×C3                       29.27                     e                       E
+
+         A3×B2×C3                       27.63                     f                       F
+
+         A2×B3×C3                       27.44                     f                       F
+                                                  21

@@ -1,0 +1,46 @@
+  LA
+                                                         1.20
+  17,37
+{ 17,.217,27                                           1 0.A00.20
+  17.22                                                  0.00
+  17.17                                                  -0.20
+  17.12
+                     A. 测量示值                                        B. 偏离均值程度
+
+                           图 4-28 4 台综合测试台测量 17.64%标准棒对比图
+
+         Figure 4-28 Comparison of 17.64% standard rod measured by 4 comprehensive test stations
+  4.90
+                                                        0,60
+{ 4.70                                               1
+3 4460
+  450                                                   0.20
+  4,40                                                  0,60
+                      Trauita
+                     A. 测量示值                                        B. 偏离均值程度
+
+                           图 4-29 4 台综合测试台测量 45.31%标准棒对比图
+
+         Figure 4-29 Comparison of 45.31% standard bar measured by 4 comprehensive test stations
+  82,54
+  3242
+  32.34
+  82,24                                              2 0,20
+  3144
+  32.04
+  J12                                                1
+  31.8:'
+  31.72                                              2 0.20
+  X164
+                                                        -0.0
+                                                        UGU
+                     A. 测量示值                                        B. 偏离均值程度
+
+                           图 4-30 4 台综合测试台测量 81.66%标准棒对比图
+
+         Figure 4-30 Comparison of 81.66% standard rods measured by 4 comprehensive test stations
+
+    仅对仪器 A1、仪器 B1、仪器 B2、仪器 B3 测量通风率标准棒进行对比分析。
+    （a）测量 17.64%通风率标准棒时，仪器 B3 离散程度最大，偏离均值相对误差为 1.05%。
+
+                                                    63

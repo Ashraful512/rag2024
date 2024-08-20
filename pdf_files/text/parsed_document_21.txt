@@ -1,0 +1,66 @@
+   0##/Tobacco Science & Technology                                                                                                                                              A#IZ/Manufacluring Technology                                                                                                                                                     2009 # # 8 #( @ # 265 # )
+   烟草 技／Tobacco Science＆Technology                                                                                                                                                     !K 3"：t芝／Manufacturing Technology                                                                                                                                     2009年第8期(总第265期)
+
+    接装纸通风率数学模型在混合型卷烟设计中的应用SE#'                                                                                                                                           EmR'
+   夏平字1，王京武2，裴海波2，方国琳1，谭新良1                                                                                                                                                                                                                                                       410007
+   1．湖南中烟工业公司技术中心，长沙市雨花区曙光南路108号410007410007
+  2．湖南中烟工业公司长沙卷烟厂，长沙市雨花区曙光南路108号410007
+
+   关键词：通风率；激光打孔；接装纸；焦油；混合型卷烟
+   摘要：为了得到不同焦油量的混合型卷烟产品，考察和测试了一排、两排在线激光打孔条件下的卷烟总
+   通风率、接装纸通风率、卷烟纸通风率三者之间的关系，建立了接装纸通风率与焦油之间的数学模型。
+   结果表明：①在总通风率低的情况下，卷烟纸的通风率起主要作用；在总通风率高的情况下，接装纸的通
+   风率起主要作用，而卷烟纸的通风率作用逐步减小；②对于低焦油混合型卷烟产品，特别是接装纸通风
+   率稳定在45％左右的产品，应采用两排在线激光打孔；而接装纸通风率较低，焦油量相对高的产品，一
+   般采用一排激光打孔；③建立了接装纸通风率与焦油之间的数学模型，通过该模型计算出接装纸通风
+   08938:TS761.2
+   率，再调整在线激光打孔的技术参数，可实现产品设计的技术要求。rm#ire:A                                                                                                                                   I=58:002 - 0861 (2009 )08 ~ 0010 _ 04
+   中图分类号：TS761．2文献标识码：A文章编号：1002—0861(2009)08—0010—04
+   Application of Mathematical Model for Ventilation Rate of Tipping Paper in Blended Cigarette Design
+  XIA PING-YU(1) , WANG JING-WU(2) Ventilation   Rate
+  Application of Mathematical Model for                                                                                                                                       PEI HAI-BO (2 ) of   Tipping   Paper   in Blended Cigarette DesignFANC GUO-LIN( 1) , and TAN XIN-LIANG ( 1)
+  XIA PING．YU(1)，WANG JING—WU(2)，PEI HAl-BO(2)，FANG GUO-LIN(1)，and TAN XIN-LIANG(1)
+                                                                                   Technology Center , Hunan Branch of China Tobacco Industry Corporation , Changsha 410007                                                                                                                                                                                                             China
+   1．Technology Center，Hunan Changsha Cigarette Factory Branch   of   China   Tobacco   Industry   Corporation，Changsha   4 1 0007，ChinaHunan Branch of China Tobacco Industry Corporation , Changsha 410007 _                                                                                                                                                                                         China
+  Keywords : Ventilation rate
+  2．Changsha Cigarette Factory，Hunan Branch ofLaser perforation   China   Tobacco   Industry   Corporation，Changsha   410007，ChinaTipping paper                                                                                                                     Tar; Blended cigarette
+  Keywords：Ventilation rate；Laser perforation；Tipping paper；Tar；Blended cigarette
+                                                                                 Abstract: In order to obtain blended cigarette products with different tar deliveries                                                                                                                                                           the relationship among the
+  Abstract：In order to obtain
+                              ventilation rates of cigarette blended   cigarette   products   with paper W4s investigated with   single-line among   thetipping paper and   cigarette   different   tar   deliveries，the   relationship                                                                                                                                                        two-line
+  ventilation rates of cigarette，tipping paper and cigarette paper was investigated
+                                                                                   online laserperforationand                 mathematical model between the ventilation rale   with single—line  or  two。lineof tipping paper and tar delivery
+  online laser perforation，and a mathematical model between the ventilation rate of
+                                                                                    Was established.The results showed that : 1 ) for cigarette of low ventilation rate tipping   paper   and tar deliverythe ventilation rate of cigarette
+  was established．The results showed that：1)for cigarette of lOW ventilation rate，the ventilation rate of cigarette
+                                                                                                                   peper playedmajor rolewhile for cigarette of high ventilation rate _                                                                                             the ventilation rate oftipping paper played
+  paper played major role; 2 ) for blended cigarette products of low tar deliverya major role；while for cigarette of high ventilation rate，the ventilation rate of tippingespecially thoge with the   paper   playedtipping paper of
+  a major role；2)for blended cigarette products of perforation should be adopted; for blended cigarette products of
+  about 45% ventilation rate                                                                                      two-line online lager   low   tar   delivery，especially   those with the tipping paper  of
+ relatively higher tar delivery with low ventilation tipping paper , single-line online laser perforation was generally
+  about 45％ventilation rate，two—line online laser perforation should be adopted；for blended cigarette products of
+ adopted; 3 ) the   parameters  of online laser perforation  could be   adjusted  according to the ventilation rale
+  relatively higher tar delivery with low ventilation tipping paper，single—line online laser perforation was generally
+ tipping paper calculated with the mathematical model to meet the requirements of product design_
+  adopted；3)the parameters of online laser perforation could be adjusted according to the ventilation rate of
+  tipping paper calculated with the mathematical model to meet the requirements of product design．
+
+                       目前国内卷烟企业采用在线激光打孔系统，降低                                                                                                                                                                                                          卷烟焦油。而在开发一个新的卷烟品牌时，若采用在
+                                                                                                                                                                                                                                                      线激光打孔系统，需反复地试验与修正，才能生产出符
+  MA" ( 140200302028 ) .
+  基金项目：湖南中烟工业公司资助项目“在线激光打孔研究及                                                                                                                                                                                                                         合卷烟配方设计的产品。此过程工作量大、耗时长，卷
+                                                                                                                                                                                                                                                      烟焦油波动大，且不利于采用计算机模拟烟支设
+                                                                                                                                                                                                                                                                           #+3]
+##MIZG, E-mail :xiapingyu@ baisha_ com
+                                      应用”(110200302028)。
+ K#AM:2009
+          作者简介：夏平宇(1973一)，硕士研究生，高级工程师，主要从                                                                                                                                                                                                             计¨-3】。本文通过在线激光打孔技术的研究，找到接
+                                                                 03 - 10                                                                                                                                                                              装纸通风率是控制卷烟焦油量的核心指标，获得了焦
+  事卷烟工艺研究。E—mail：xiapingyu@baisha．cornE-mail:zyn0626@ 126_ com
+  11.0371-67672778
+                  收稿日期：2009—03—10                                                                                                                                                                                                                     油设计值、接装纸通风率、以及激光打孔参数”。1三者
+  责任编辑：周雅宁E．mail：zyn0626@126．com                                                                                                                                                                                                                      之间的关系，并建立了数学模型。旨在为卷烟产品设
+   电话：0371击767277810                                                                                                                                                                                                                                  计师能够便捷地研制出不同焦油量的混合型卷烟产品
+       10
+
+                    万方数据

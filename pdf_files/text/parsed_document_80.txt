@@ -1,0 +1,35 @@
+           34
+           33
+           32
+         8 31
+        3 3029
+           28
+           27
+           26
+           25
+                    A1        A2        A3        A4        A5        A6
+                         图 4-4 成型纸透气度对卷烟总通风率的影响
+
+        Figure 4-4 Influence of air permeability of formed paper on total ventilation rate of cigarette
+
+    方差分析显示（表 4-6），成型纸透气度处理间的差异极显著，说明成型纸透气度显著
+影响卷烟总通风率。
+                         表 4-6 成型纸透气度对卷烟总通风率的影响
+
+         Table 4-6 Influence of air permeability of formed paper on total ventilation rate of cigarette
+
+变异来源          自由度          平方和           均方           F 值          F0.05        F0.01
+
+ 区组间             2           0.02        0.01         0.66          4.1         7.56
+
+ 处理间             5          68.25        13.65       992.21        3.63         5.64
+
+   误差           10           0.14        0.01
+
+ 总变异            17           68.4
+
+    （2）接装纸透气度对卷烟总通风率的影响
+    图 4-5 显示，随着接装纸透气度的增加，总通风率随之上升，接装纸透气度与卷烟总通
+风率呈现一元线性关系，其线性方程式为 y=0.024x+24.93；R²= 0.971。
+
+                                          24

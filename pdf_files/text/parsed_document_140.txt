@@ -1,0 +1,45 @@
+烟 草 科 技 / Tobacco Science & Technology             烟 草 化 学 / Tobacco Chemistry                       2014 年 第 11 期（总 第 328 期）
+
+在线激光打孔参数对卷烟通风率及常规烟气成分释放量
+的影响
+曹伏军 1 ，解晓翠 1 ，汪           旭2 ，刘      畅1 ， 严莉红1 ，石玉萍 1 ，何爱军 1 ，王巍巍 1 ，杨                    潇1 ，  周    骏*1
+1. 上海烟草集团有限责任公司技术中心北京工作站，北京市通州区万盛南街 99 号                                              101121
+2. 上海烟草集团有限责任公司技术中心，上海市杨浦区长阳路 717 号                                      200082
+
+摘 要 ：为 考 察 在 线 激 光 打 孔 参 数 对 卷 烟 通 风 率 及 常 规 烟 气 指 标 的 影 响 ，制 作 了 不 同 激 光 脉 冲 持 续 时 间 和
+打 孔 数 量 的 卷 烟 样 品 ，考 察 了 上 述 参 数 与 卷 烟 通 风 率 、通 风 率 稳 定 性 及 常 规 烟 气 成 分（烟 碱 、焦 油 和 一 氧
+化 碳）释 放 量 的 关 系 ；通 过 单 因 素 实 验 设 计 ，考 察 了 打 孔 排 数 和 打 孔 位 置 对 卷 烟 理 化 指 标 的 影 响 。 结 果
+表 明 ：① 在 实 验 范 围 内 ，激 光 脉 冲 持 续 时 间 对 卷 烟 通 风 率 及 常 规 烟 气 成 分 释 放 量 的 影 响 大 于 打 孔 数 量 对
+二 者 的 影 响 ；打 孔 数 量 和 激 光 脉 冲 持 续 时 间 对 卷 烟 通 风 率 信 噪 比 的 影 响 不 明 显 ，对 通 风 率 均 值 有 显 著 影
+响 ，通 风 率 均 值 随 打 孔 数 量 和 激 光 脉 冲 持 续 时 间 的 增 加 呈 增 大 趋 势 ；打 孔 数 量 与 常 规 烟 气 成 分 释 放 量 相
+关 性 不 显 著 ，激 光 脉 冲 持 续 时 间 与 烟 气 烟 碱 、焦 油 和 一 氧 化 碳 释 放 量 呈 显 著 负 相 关 ，相 关 系 数 分 别
+为 -0.874，-0.936 和 -0.804。 ② 总 孔 数 及 中 心 打 孔 位 置 一 定 时 ，通 风 率 随 打 孔 排 数 的 增 加 而 减 小 ，常 规 烟
+气 成 分 释 放 量 随 打 孔 排 数 的 增 加 而 增 大 ；打 孔 数 量 和 打 孔 排 数 一 定 时 ，打 孔 位 置 距 嘴 端 越 远 ，通 风 率 越
+低，常规烟气成分释放量越高。
+关键词：在线激光打孔参数；卷烟；通风率；焦油；烟碱；一氧化碳
+中图分类号：TS411.2             文献标识码：A            文章编号：1002-0861（2014）11-0045-06
+
+Effects of Online Laser Perforation Parameters on Cigarette Ventilation Rate and Deliveries of
+Routine Smoke Constituents
+CAO    Fujun1， XIE    Xiaocui1， WANG      Xu2， LIU    Chang1，YAN       Lihong1， SHI    Yuping1， HE Aijun， WANG1
+Weiwei1，YANG Xiao，and ZHOU Jun*11
+1. Beijing Work Station，Technology Center，Shanghai Tobacco Group Co.，Ltd.，Beijing 101121，China
+2. Technology Center，Shanghai Tobacco Group Co.，Ltd.，Shanghai 200082，China
+Abstract：In order to investigate the effects of online laser perforation parameters on cigarette ventilation rate and
+the deliveries of tar，nicotine and carbon monoxide in mainstream cigarette smoke，the cigarette samples with
+different hole numbers and perforated with different laser pulse durations were prepared，the relationships of the said
+parameters with cigarette ventilation rate，the consistence of ventilation rate and the deliveries of routine smoke
+constituents were analyzed. Meanwhile，a single factor experiment was conducted to investigate the effects of row
+number and position of perforation on the physical and chemical indexes of cigarette. The results showed that:       1)
+Within the test range，laser pulse duration affected cigarette ventilation rate and routine smoke constituent deliveries
+more significantly than did hole number；laser pulse duration and hole number did not affect the ratio of signal to
+noise of cigarette ventilation rate obviously，but affected the mean value of ventilation rate significantly，which
+increased with the increase of hole number and laser pulse duration；the correlation between hole number and the
+
+基金项目：上海烟草集团有限责任公司科技项目“在线激光打孔技术应用研究”K2011-2-003P）。（
+作 者 简 介 ：曹 伏 军（1971—)，硕 士 ，工 程 师 ，主 要 从 事 卷 烟 工 艺 与 材 料 研 究 。 E-mail：caofj2010@sina.com；* 通 讯 作 者 ：周 骏                     E-mail：
+zhoujun100@sohu.com
+收稿日期：2014-05-30
+责任编辑：洪广峰           E-mail：hgf@ztri.com.cn  电话：0371-67672660
+
+                                                                                                                              45

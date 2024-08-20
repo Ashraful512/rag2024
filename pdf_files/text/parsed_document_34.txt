@@ -1,0 +1,50 @@
+     · 86·                                                       烟 草 科 技                                                       2018 年
+
+            157-162.                                                     ［9］    余文炎. YJ27 型接装机工艺设备调整对烟支嘴头通
+            WANG     Limin，MA Jing，HU        Qun，et    al. Effect of            风率的影响［J］. 轻工标准与质量，2013（3）：49-50.
+            ventilation  technology   on  cigarette  properties［C］//            YU   Wenyan.   Effects  of  YJ27   tipping machine   on
+            Proceedings   of symposium    on  tobacco  chemistry  of            ventilation rate of cigarette［J］. Standard and Quality of
+            industrial Specialized  Committee   of  China   Tobacco             Light Industry，2013（3）：49-50.
+            Society.   Haikou： China     Tobacco    Society， 2005：       ［10］ 叶松涛. 接装纸涂胶在线检测及剔除系统的设计应
+            157-162.                                                            用［J］. 烟草科技，2012（3）：25-27.
+     ［4］    陈慧斌，胡素霞，叶明樵，等. 接装纸打孔对卷烟质量                                           YE Songtao. Design and application of online detecting
+            的影响研究［C］//中国烟草学会工业专业委员会烟草                                           and   rejecting system   for tipping  paper  gluing［J］.
+            工艺学术研讨会论文集.                青岛：中国烟草学会，2010：                          Tobacco Science & Technology，2012（3）：25-27.
+            227-233.                                                     ［11］ 杨国荣，杨煜文，苏剑云，等.                  卷烟机接装纸在线识别
+            CHEN Huibin，HU Suxia，YE Mingqiao，et al. Study                       系统［J］. 烟草科技，2003（10）：20-21.
+            on  influence of  perforated tipping paper  on  cigarette           YANG    Guorong，YANG       Yuwen，SU     Jianyun，et   al.
+            quality［C］//Proceedings    of  symposium    on  tobacco             On-line tipping paper identification system in cigarette
+            technology   of  Industrial Specialized   Committee   of            maker［J］. Tobacco Science & Technology，2003（10）：
+            China    Tobacco   Society.  Qingdao： China     Tobacco             20-21.
+            Society，2010：227-233.                                        ［12］ 谷春亮. ZJ17 生产预打孔卷烟通风率影响因素研究
+     ［5］    金勇，王诗太，李克，等. 接装纸打孔参数对卷烟烟气                                          ［J］. 机械工程师，2004（10）：257-259.
+            焦 油 及 7 种 有 害 成 分 释 放 量 影 响 的 PLS 回 归 分 析                           GU    Chunliang.   Research   on   ventilation  rate of
+            ［J］. 烟草科技，2016，49（4）：37-44.                                         perforated cigarette in ZJ17［J］. Mechanical Engineer，
+            JIN  Yong，WANG        Shitai，LI  Ke，et    al. Effects of            2004（10）：257-259.
+            tipping  paper perforation level on  release of tar  and     ［13］ 黄晓飞，姚二民，韦峰，等.                 打孔卷烟烟支通风率研究
+            seven harmful cigarette smoke components using partial             ［J］. 企业技术开发，2013，（13）：32             43-44，47.
+            least   squares   regression［J］.  Tobacco    Science  &             HUANG Xiaofei，YAO Ermin，WEI Feng，et al. The
+            Technology，2016，（4）：37-44.49                                        research of ventilation rate of perforated cigarette［J］.
+     ［6］    王乐，游敏，崔晓梦，等. 基于线性网络模型的卷烟吸                                           Technological  Development    of  Enterprise，2013，32
+            阻 及 通 风 特 征 预 测 方 法［J］.           烟 草 科 技 ，2017，50                 （13）：43-44，47.
+            （12）：85-89.                                                  ［14］ 邢军，李晓辉，唐纲岭，等.                 一种确定通风卷烟滤嘴上
+            WANG Le，YOU Min，CUI Xiaomeng，et al. Method                          打 孔 接 装 纸 未 施 胶 区 域 的 方 法 ：CN200710193094.9
+            for  predicting  draw   resistance  and   ventilation of           ［P］. 2007-12-12.
+            cigarette based  on  linear network  model［J］. Tobacco              XING Jun，LI Xiaohui，TANG Gangling，et al. Method
+            Science & Technology，2017，50（12）：85-89.                             for determining non adhesive area of perforating and
+     ［7］    夏平宇，王京武，裴海波，等. 接装纸通风率数学模型                                           loading  paper   on   ventilation  cigarette filter tip:
+            在 混 合 型 卷 烟 设 计 中 的 应 用［J］. 烟 草 科 技 ，2009                           CN200710193094.9［P］. 2007-12-12.
+            （8）：10-13.                                                   ［15］ 张 保 永.       水 松 纸 预 打 孔 准 确 对 位 传 动 结 构 ：
+            XIA    Pingyu， WANG       Jingwu， PEI    Haibo， et    al.           CN201420749713.3［P］. 2014-12-03.
+            Application of mathematical model for ventilation rate              ZHANG     Baoyong.   Accurate   alignment   transmission
+            of   tipping  paper  in  blended   cigarette design［J］.             structure    for    tripping    paper     pre-punching：
+            Tobacco Science & Technology，2009（8）：10-13.                         CN201420749713.3［P］. 2014-12-03.
+     ［8］    魏玉玲，徐金和，廖臻，等. 卷烟材料多因素对卷烟通                                    ［16］ GB/T 22838-2009         卷烟和滤棒物理性能的测定［S］.
+            风 率 及 过 滤 效 率 的 影 响［J］. 烟 草 科 技 ，2008（11）：                         GB/T 22838-2009        Determination of physical charac-
+            9-13.                                                              teristics for cigarettes and filter rods［S］.
+            WEI Yuling，XU Jinhe，LIAO Zhen，et al. Effects of
+            cigarette  materials on  ventilation rate and   filtration                                            责任编辑          曹    娟
+            efficiency   of   cigarette［J］.  Tobacco    Science   &
+            Technology，2008（11）：-13.9
+
+万方数据

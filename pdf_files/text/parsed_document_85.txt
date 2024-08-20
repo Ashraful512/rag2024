@@ -1,0 +1,48 @@
+      A6×B2×C1                27.27               Pqrst              OPQR
+
+      A4×B2×C1                23.87               Qrst               PQRS
+
+      A2×B1×C2                23.67               Rstu               QRS
+
+      A6×B1×C1                23.65               Rstu               QRS
+
+      A1×B1×C2                23.46               Stu                RST
+
+      A2×B3×C1                23.44                Tu                RST
+
+      A4×B1×C1                23.16                Tu                RST
+
+      A3×B2×C1                25.45                Uv                 ST
+
+      A2×B2×C1                25.32                Uv                 ST
+
+      A3×B1×C1                25.13                Uv                STU
+
+      A1×B2×C1                24.53               Vw                 TUV
+
+      A1×B1×C3                23.01               Wx                 UVW
+
+      A2×B1×C1                27.35                Ax                 VW
+
+      A1×B1×C1                22.02                Y                  W
+
+4.1.3   同一规格成型纸不同透气度的接装纸对卷烟滤嘴通风率的影响
+    分析表 4-11 可知，在成型纸透气度固定的条件下，接装纸的透气度对卷烟滤嘴通风率
+呈显著影响。以 A1 处理（即成型纸透气度为 3500CU）为例，卷烟滤嘴通风率和总通风率
+随着接装纸透气度的增加而增加，且 B1、B2、B3 对卷烟滤嘴通风率和总通风率影响的差异
+性均达到极显著水平。其他同一规格成型纸、不同接装纸透气度处理下，卷烟滤嘴通风率和
+总通风率表现出和 A1 处理相同的规律。
+              表 4-11 同一规格成型纸不同透气度的接装纸对卷烟滤嘴通风率的影响
+
+     Table 4-11 Influence of different air permeability of the same sheet on the ventilation rate of the filter
+
+  成型纸透气度             接装纸透气度           卷烟滤嘴通风率（%）               总通风率（%）
+
+                          B1                 12.55cC               23.84cC
+       A1                 B2                 17.32bB               28.65bB
+                          B3                 21.73aA               31.44aA
+                          B1                 15.79cC               25.89cC
+       A2                 B2                 19.83bB               29.84bB
+                          B3                 22.23aA               31.45aA
+
+                                       29

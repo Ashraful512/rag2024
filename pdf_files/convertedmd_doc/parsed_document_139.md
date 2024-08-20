@@ -1,0 +1,9 @@
+value maximum fluctuation 0.07%, shows that the calibration instrument can effectively weaken the influence of the temperature measurement error for cigarette ventilation rate.
+
+Through the verification of the verification method of the ventilation rate standard rod and the testing equipment, the verification method of the period is standardized and the best verification method is determined: the soapfilm flowmeter is used for the verification method of the ventilation rate standard rod and the standard verification method is used for the verification method of the ventilation rate testing equipment. Effective period verification can timely find abnormal conditions, reduce the risk caused by abnormal conditions, improve the controllability of the ventilation rate standard rod value and the stability of equipment, and ensure the continuous accuracy and reliability of cigarette ventilation rate measurement data.
+
+Through the development of this subject, in the design of cigarette, the shape can be adjusted according to the ventilation rate design value porosity range of paper and paper, to realize cigarette ventilation rate control, and regulate the henan ZhongYan cigarette ventilation rate standard rod and testing equipment during verification method, improved the stability and accuracy of the test results, further improve the level of processing technology and quality of cigarette, To expand and strengthen the golden leaf brand cigarette to provide reliable quality control guarantee.
+
+Key words: cigarette ventilation rate; Smoke materials; External factors; During the inspection
+
+83
