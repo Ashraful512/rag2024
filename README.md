@@ -12,7 +12,7 @@ into usable text, indexing them, and visualizing the relationships in a graph da
 
 - **`convert_pdf_to_txt.py`**: Converts PDF files into `.txt` format, which GraphRAG requires to process the data.
 - **`graphrag_importer.py`**: Imports the extracted data from `.parquet` files into Neo4j, generating the graph structure.
-- **`nodes_merger.py`**: Merges duplicate or similarly-meaning nodes into a unified node in Neo4j.
+- **`to_merge_nodes.py`**: Merges duplicate or similarly-meaning nodes into a unified node in Neo4j.
 
 ## Installation
 
@@ -70,7 +70,7 @@ python -m graphrag.index --root ./ragtest
 The extracted data will be saved in `.parquet` files within the `output/artifacts` folder.
 
 ### 4. Importing Data into Neo4j
-Set up your Neo4j credentials in your environment:
+Set up your Neo4j credentials in your `graphrag_importer.py` and `to_merge_nodes.py` files:
 
 ```bash
 export NEO4J_URI=bolt://localhost:7687
