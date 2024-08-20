@@ -1,4 +1,4 @@
-```markdown
+
 # RAG2024: Graph-Based Knowledge Retrieval System
 
 ## Overview
@@ -8,11 +8,11 @@ The extracted information is visualized and managed within a Neo4j graph databas
 This project is designed to streamline data processing by converting various formats (such as PDFs)
 into usable text, indexing them, and visualizing the relationships in a graph database.
 
-##Project Structure
+## Project Structure
 
-- `convert_pdf_to_txt.py`: Converts PDF files into `.txt` format, which GraphRAG requires to process the data.
-- `graphrag_importer.py`: Imports the extracted data from `.parquet` files into Neo4j, generating the graph structure.
-- `nodes_merger.py`: Merges duplicate or similarly-meaning nodes into a unified node in Neo4j.
+- **`convert_pdf_to_txt.py`**: Converts PDF files into `.txt` format, which GraphRAG requires to process the data.
+- **`graphrag_importer.py`**: Imports the extracted data from `.parquet` files into Neo4j, generating the graph structure.
+- **`nodes_merger.py`**: Merges duplicate or similarly-meaning nodes into a unified node in Neo4j.
 
 ## Installation
 
@@ -84,13 +84,13 @@ Then, import the extracted data into Neo4j using the `graphrag_importer.py` scri
 python graphrag_importer.py
 ```
 
-This will create the graph in Neo4j using the data from the `.parquet` files.
+This will create the graph in Neo4j using the data from the output/artifacts folder `.parquet` files.
 
 ### 5. Merging Duplicate or Similar Nodes
 After visualizing the graph in Neo4j, you may notice duplicate or similarly-meaning nodes. Use the `nodes_merger.py` script to merge these nodes:
 
 ```bash
-python nodes_merger.py
+python to_merge_nodes.py
 ```
 
 For instance, the script will merge nodes with names like "通风率", "卷烟纸透气度", "滤嘴通风率", and "卷烟总通风率" into a single node labeled "卷烟通风率".
